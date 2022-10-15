@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Eun A Kim
-- 👀 I’m interested in reading books, Machine Learning, etc.. 
-- 🌱 I’m currently learning Machine Learning in ECE department in UW-madison...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Machine Learning, Data science, Data mining, Naval environment, and reading books for fun. 
+- 🌱 I’m currently learning Machine Learning in master program in UW-madison.
 - 📫 How to reach me : +1 608-770-0640 / gracea8113986@gmail.com 
 
 <!---
